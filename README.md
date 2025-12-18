@@ -1,1 +1,3 @@
-绛夊緟濉啓
+使用Python ttk实现AI编程IDE工具使用统计工具，采用上下布局，含log选择、treeview展示等功能。
+中文名称:AI编程IDE工具使用统计工具
+英文名称:ai_ide_tool_usage_statistics
